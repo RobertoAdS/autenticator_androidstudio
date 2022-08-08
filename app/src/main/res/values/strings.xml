@@ -3,4 +3,8 @@
     <string name="txtUsername">Username:</string>
     <string name="txtPassword">Password:</string>
     <string name="btnLogin">Login</string>
+    <string name="btnCadastrar">Cadastrar</string>
+    <string name="cadastroUsername"></string>
+    <string name="cadastroPassword"></string>
+    <string name="telaSucesso">Cadastrado com sucesso!</string>
 </resources>
